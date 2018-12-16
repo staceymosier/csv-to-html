@@ -1,0 +1,25 @@
+{
+  "name": "csv-to-html",
+  "version": "1.0.0",
+  "description": "A working example of converting data from a CSV to an HTML accordion from Foundation.\r The output is a static html file that is uploaded to the website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staceymosier/csv-to-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staceymosier/csv-to-html/issues"
+  },
+  "homepage": "https://github.com/staceymosier/csv-to-html#readme",
+  "devDependencies": {
+    "convert-csv-to-json": "0.0.13",
+    "eslint": "^5.10.0",
+    "file-system": "^2.2.2",
+    "pretty": "^2.0.0"
+  }
+}
